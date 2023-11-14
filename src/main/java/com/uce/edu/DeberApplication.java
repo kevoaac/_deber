@@ -16,6 +16,7 @@ public class DeberApplication implements CommandLineRunner {
 		System.out.println("Hola mundo");
 		System.out.println("Código para el commit de inicialización del proyecto");
 		System.out.println("Cambio para la misma rama -> 'main'");
+		System.out.println("Cambio para nueva rama -> 'nuevaRama'");
 		
 	}
 
